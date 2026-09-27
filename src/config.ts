@@ -53,7 +53,7 @@ export const SOCIAL_LINKS: {
 } = {
   SHOW_RSS: true,
   BLUESKY_URL: "https://bsky.app/profile/bunnymat",
-  GITHUB_URL: "https://github.com/bunnymat",
+  GITHUB_URL: "https://github.com/lunardestrier",
   EMAIL: "bunnymat@atomicmail.io",
 };
 
