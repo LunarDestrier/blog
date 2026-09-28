@@ -11,7 +11,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Shoor", ...defaultTheme.fontFamily.sans],
+        sans: ["ShoorRounded", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         accent: colors[ACCENT_COLOR.toLowerCase()],
