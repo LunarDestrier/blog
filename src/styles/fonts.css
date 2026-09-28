@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Light.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Light.woff2") format("woff2");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Regular.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Regular.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Medium.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Medium.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-SemiBold.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-SemiBold.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Bold.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Bold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-UltraBold.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-UltraBold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -56,7 +56,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-ExtraBold.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-ExtraBold.woff2") format("woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -64,7 +64,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Black.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Black.woff2") format("woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -72,7 +72,7 @@
 
 @font-face {
   font-family: "ShoorRounded";
-  src: url("../assets/fonts/shoor/ShoorRounded-Super.woff2") format("woff2");
+  src: url("../assets/fonts/shoor-rounded/ShoorRounded-Super.woff2") format("woff2");
   font-weight: 950;
   font-style: normal;
   font-display: swap;
