@@ -123,7 +123,7 @@ https://telegram.me/BunnyMats/254
 
 به زبان خیلی ساده:
 
-**Client → Request → Server → Process → Response → Client**
+**Client -> Request -> Server -> Process -> Response -> Client**
 
 #### انواع سرورها
 
@@ -192,3 +192,32 @@ https://telegram.me/BunnyMats/254
 ### ابزارهای مرتبط با دِواپس
 
 رسیدیم به پارت باحال ابزارها! توی این پارت، قراره با مفهوم CI/CD آشنا بشیم و ببیینم که چیه و چه کاربردی داره.
+
+#### این CI چیه؟
+
+CI مخفف Continuous Integration هست. 
+
+CI یعنی هر بار که Developer تغییراتش رو وارد پروژه می‌کنه، سیستم به‌صورت خودکار کد رو Build و Test می‌کنه تا مطمئن بشه تغییر جدید چیزی رو خراب نکرده.
+
+**Code -> Push -> Build -> Test -> Deploy**
+
+یعنی به صورت خیلی ساده میتونیم بگیم که CI یعنی تست اینکه آیا کد سالمه؟!
+
+#### اونوقت CD چیه؟
+
+CD مخفف Continuous Delivery / Deployment هست.
+
+شاید توی ذهنتون الان این سوال به وجود اومده باشه که چرا CD دوتا معنی داره؟
+الان جوابتون رو میگیرین!
+
+**Continuous Delivery**
+کد به‌صورت خودکار آماده انتشار می‌شه، اما انتشار نهایی ممکنه نیاز به تأیید دستی داشته باشه.
+
+**Code -> Test -> Build -> Approval -> Ready to Deploy -> Production**
+
+**Continuous Deployment**
+اگر همه‌چیز درست باشه، کد بدون تأیید دستی مستقیماً در Production منتشر می‌شه.
+
+**Code -> Test -> Build -> Deploy -> Production**
+
+ساده بخوام بگم Delivery میگه که آیا کد آماده انتشار هست و Deployment کد رو منتشر میکنه.
