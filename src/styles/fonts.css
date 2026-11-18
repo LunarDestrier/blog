@@ -1,79 +1,71 @@
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Thin.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Thin.woff2") format("woff2");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-ExtraLight.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-ExtraLight.woff2") format("woff2");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Light.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Light.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Regular.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Medium.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Medium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-SemiBold.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Bold.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-ExtraBold.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-ExtraBold.woff2") format("woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-Black.woff2") format("woff2");
+  font-family: "Dastkhat";
+  src: url("../assets/fonts/Dastkhat/DastkhatBar-Black.woff2") format("woff2");
   font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Peyda";
-  src: url("../assets/fonts/peyda/PeydaWeb-ExtraBlack.woff2") format("woff2");
-  font-weight: 950;
   font-style: normal;
   font-display: swap;
 }
