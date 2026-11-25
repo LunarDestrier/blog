@@ -11,7 +11,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Dastkhat", ...defaultTheme.fontFamily.sans],
+        sans: ["Peyda", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         accent: colors[ACCENT_COLOR.toLowerCase()],
